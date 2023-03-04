@@ -6,7 +6,7 @@ dataset i.e. MNIST dataset.
 
 Dataset Link - https://drive.google.com/drive/folders/1wKA1XzUj5eVvu9Ky373ibh-Eo2R9rPrZ?usp=sharing
 
-Made a NN model without using in-built functions.
+Made a NN model without using in-built functions.\
 Activation function used - ReLU 
 To Classsify - Softmax
 Number of hidden layers - 2
