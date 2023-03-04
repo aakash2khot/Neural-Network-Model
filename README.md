@@ -18,11 +18,11 @@ the given dataset i.e. CIFAR 10 dataset.
 
 Dataset Link - https://drive.google.com/drive/folders/1euNVIMTSTR84kue-hYawMYwA8KCux3uK?usp=sharing 
 
-Activation function used - ReLU 
-To Classsify - Softmax 
-Number of hidden layers - 8 
-Used Stochastic gradient descent for faster computations. 
-Final accuracy of more than 57%. 
+Activation function used - ReLU  
+To Classsify - Softmax   
+Number of hidden layers - 8  
+Used Stochastic gradient descent for faster computations.   
+Final accuracy of more than 57%.   
 
 Note - ANN model is used and not CNN model.
 
